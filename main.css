@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+#wrapper {
+	display:flex;
+	flex-flow: column wrap;
+	align-content: center;
+	justify-content: center;
+	height:100vh;
+	font-size:2em;
+	background-color:#222;
+	color: green;
+	
+}
